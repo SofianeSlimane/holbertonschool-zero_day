@@ -1,1 +1,1 @@
-not emptys
+not empty
